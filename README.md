@@ -92,8 +92,9 @@
       >
     </div></div><br> <br>
     <h3><a href="https://github.com/tonicdev07/ERP-System-Backend" style="font-size: 32px">Go to the backend</a></h3>
-
+<div>
     <h1><a target="_blank" href="https://youtu.be/xYtqmYZ-kDQ" style="font-size: 32px">Demo</a></h1>
+</div>
 
 <div>
       <a target="_blank" href="https://youtu.be/xYtqmYZ-kDQ">
