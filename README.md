@@ -91,10 +91,10 @@
         https://facebook.com/tonicdev07</a
       >
     </div></div><br> <br>
-    <h1><a href="https://youtu.be/xYtqmYZ-kDQ" style="font-size: 32px">Demo</a></h1>
+    <h1><a target="_blank" href="https://youtu.be/xYtqmYZ-kDQ" style="font-size: 32px">Demo</a></h1>
 
 <div>
-      <a href="https://youtu.be/xYtqmYZ-kDQ">
+      <a target="_blank" href="https://youtu.be/xYtqmYZ-kDQ">
         <img src="./demo.jpg" alt="" />
       </a>
     </div>
